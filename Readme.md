@@ -129,7 +129,7 @@ energy_kwh = Global_active_power / 60
 
 Comparison of model predictions against actual energy consumption.
 
-![Model Comparison](output/plots/model_comparison_zoom.png)
+![Model Comparison](output/model_comparison_zoom.png)
 
 
 ## 🧠 Key Insights
