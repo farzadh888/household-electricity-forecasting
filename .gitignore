@@ -1,0 +1,25 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+
+# Model weights (IMPORTANT)
+*.pth
+*.pt
+
+# Large intermediate files
+*.npy
+*.npz
+
+# Logs
+*.log
