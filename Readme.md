@@ -125,6 +125,13 @@ energy_kwh = Global_active_power / 60
 
 ---
 
+## 📈 Model Comparison (Last 7 Days of Test Set)
+
+Comparison of model predictions against actual energy consumption.
+
+![Model Comparison](output/plots/model_comparison_zoom.png)
+
+
 ## 🧠 Key Insights
 
 * Electricity consumption is **locally smooth**, making Naive surprisingly strong
